@@ -1,0 +1,22 @@
+body {
+  margin-left: 20px;
+  background-color: pink;
+  color: white;
+  font-family: Verdana;
+  }
+
+img {
+  height: 200;
+  width: 200;
+  border-radius: 100px;
+  border: solid 10px; border-color: lightBlue;
+  }
+
+p {
+  color: black;
+  }
+
+li {
+  color: black;
+  font-size: 20px;
+  }
